@@ -30,7 +30,7 @@ def graph():
                       color='active', hover_data=['confirmed' , 'recovered'],
                       color_continuous_scale='RdBu',
                       color_continuous_midpoint=np.average(df['confirmed'], weights=df['active']),
-                      title = 'Statewise Cases',
+                      title = 'Statewise Cases, last updated on ' + str(pd.to_datetime(df['lastupdatedtime']).max()),
                         )
     fig.show()
 
