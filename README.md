@@ -50,7 +50,7 @@ Hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we ma
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/jec2018/covid_visualizer/blob/master/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
