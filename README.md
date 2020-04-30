@@ -24,6 +24,12 @@ apt-get install python-tk
 
 Please refer to the official websites of the respective packages for machine specific instructions
 
+## How to run the program
+ 1. After installing the required dependencies ( Machine specific instructions are not given for redundancy )
+ 2. One can download all the required files to run the script from the "Clone or Download" button from the repository.
+ 3. After downloading the zip file, extract the files inside it in a suitable folder.
+ 4. Open a terminal and navigate to that folder .
+ 5. run python3 main.py
 
 ### Note
 Different systems have different default fonts and screen resolution
