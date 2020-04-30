@@ -9,8 +9,12 @@ This project uses the croudsourced covid-19 informations over at www.covid19indi
 This project is build using Python Programming language and the python 3.5+ is needed for it to run on a machine
 ### Prerequisites
 
-Since the data is collected from an internet source,A working internet connection is necessary for the script to run
-Tkinter , Pandas and plotly.express
+Since the data is collected from an internet source,A working internet connection is necessary for the script to run.
+#### libraries used
+Tkinter, Numpy, Pandas and plotly.express
+```
+pip install numpy
+```
 ```
 pip install pandas
 ```
@@ -18,7 +22,7 @@ pip install pandas
 pip install plotly
 ```
 ```
-apt-get install python-tk
+apt-get install python3-tk
 ```
 ### Installing
 
