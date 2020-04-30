@@ -50,7 +50,7 @@ Hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we ma
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/jec2018/covid_visualizer/blob/master/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
@@ -60,11 +60,11 @@ Please read [CONTRIBUTING.md](https://github.com/jec2018/covid_visualizer/blob/m
 * **Mahmudul Hasan** - *Initial work* - [mahmud41](https://github.com/mahmud41)
 * **Subhasish Bora** - *Initial work* - [subhasiz](https://github.com/subhasiz)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
